@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Bruna
 
-<!--
-**brunaagomesz/brunaagomesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Analise e Desenvolvimento de Sistemas
+💻 Focada em desenvolvimento front-end e Analise de Dados
+🚀 Atualmente trabalhando no projeto **ANTONIETT**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou apaixonado por tecnologia e estou em constante evolução na área de desenvolvimento web, buscando aplicar na prática os conhecimentos adquiridos durante a graduação.
+
+---
+
+## ⚙️ Tecnologias
+
+* HTML
+* CSS
+* JavaScript/Jquery
+* Python
+* PowerBI
+
+---
+
+## 📌 Projetos em destaque
+
+* ☕ ANTONIETT — Loja virtual de canecas (projeto acadêmico com cliente real)
+* 🤝 CPA — Centro de Profissionalização de Adolescentes - ONG (projeto acadêmico com cliente real)
+
+---
+
+## 📫 Contato
+
+* LinkedIn: (https://www.linkedin.com/in/brunaagommes/)
+* Email: brunaagommesz@gmail.com
